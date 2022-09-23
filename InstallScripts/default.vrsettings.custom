@@ -1,0 +1,16 @@
+{
+    "driver_Custom": {
+        "enable": true,
+        "loadPriority": -999,
+        "serialNumber": "Null Serial Number",
+        "modelNumber": "Null Model Number",
+        "windowX": 0,
+        "windowY": 0,
+        "windowWidth": 1920,
+        "windowHeight": 1080,
+        "renderWidth": 1920,
+        "renderHeight": 1080,
+        "secondsFromVsyncToPhotons": 0.01111111,
+        "displayFrequency": 90.0
+    }
+}
